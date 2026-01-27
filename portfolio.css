@@ -224,9 +224,9 @@ strong {
 }
 
 .hero-title {
-  font-size: clamp(1.5rem, 5vw, 3rem);
-  font-weight: 600;
-  color: var(--color-text-muted);
+  font-size: clamp(0.75rem, 2.5vw, 1.5rem);
+  font-weight: 300;
+  color: var(--color-primary);
   margin-bottom: var(--space-md);
 }
 
